@@ -110,7 +110,7 @@ const stylistic = {
   // Use spaces after commas, not before
   'comma-spacing': 2,
 
-  // Use commas are at the of the line, not the beginning
+  // Use commas are at the end of the line, not the beginning
   'comma-style': 2,
 
   // Use a line terminator at the end of every file
