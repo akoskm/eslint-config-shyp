@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
-    "eslint": "1.*",
-    "eslint-plugin-mocha": "1.*"
+    "eslint": "4.*",
+    "eslint-plugin-mocha": "4.*"
   }
 }
