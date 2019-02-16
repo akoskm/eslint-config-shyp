@@ -8,6 +8,6 @@
   "dependencies": {},
   "peerDependencies": {
     "eslint": "4.*",
-    "eslint-plugin-mocha": "4.*"
+    "eslint-plugin-mocha": "5.0.0"
   }
 }
